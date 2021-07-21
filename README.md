@@ -14,7 +14,7 @@ Foram adicionados os seguintes recursos ao projeto:
 
 - Por fim, foi utilizado a biblioteca **SweetAlert** para apresentar informações ao usuário.
 
-## 🚀 Recursos Utilizados
+## 🚀 Recursos utilizados
 
 * **[Axios](https://axios-http.com/docs/intro)**
 * **[BULL](https://github.com/OptimalBits/bull)**
@@ -28,7 +28,7 @@ Foram adicionados os seguintes recursos ao projeto:
 * **[SweetAlert](https://sweetalert2.github.io/)**
 
 
-## 🔥 Executando Localmente a Aplicação 
+## 🔥 Executando a aplicação no ambiente local
 
 Caso você deseja executar o projeto na sua máquina local, basta seguir os passos abaixo:
 
@@ -36,7 +36,7 @@ Caso você deseja executar o projeto na sua máquina local, basta seguir os pass
 
 Para começar, você deve simplesmente clonar o repositório do projeto na sua máquina e instalar as dependências.
 
-#### ❗️ Instalando as Dependências (via Windows): 
+#### ❗️ Instalando as dependências (via Windows): 
 
 Abre o cmd (caso esteja utilizando o Windows) navegue até o local onde você clonou o projeto
 
@@ -65,7 +65,7 @@ Execute no terminal para gerar o container:
 ### Arquivo .env
 Altere o arquivo `.env.example` para `.env` 
 
-#### 💨 Executando a Aplicação 
+#### 💨 Executando a aplicação 
 
 Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser executado localmente.
 
@@ -92,7 +92,7 @@ docker run --name redis -p 6379:6379 -d -t redis:alpine
 
 ```
 
-## 🚩 Tenho Dúvidas... O que fazer? 
+## 🚩 Tenho dúvidas... O que fazer? 
 
 Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/lucasdealmeidadev/Tarefas-em-background-utilizando-NodeJS-e-Redis/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
