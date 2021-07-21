@@ -94,10 +94,10 @@ npm add bull-board
 
 Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/lucasdealmeidadev/Tarefas-em-background-utilizando-NodeJS-e-Redis/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
-## Autor:
-
-* [**Lucas de Almeida Monteiro**](https://github.com/lucasdealmeidadev)
-
 ## Licença
 
 * Licenciado sob a licença MIT - veja [LICENSE](https://github.com/lucasdealmeidadev/Tarefas-em-background-utilizando-NodeJS-e-Redis/blob/main/LICENSE) para mais informações.
+
+----------
+
+Desenvolvido por Lucas de Almeida Monteiro (:  👋  [ Entrar em contato!!](https://www.linkedin.com/in/lucas-almeida-145a4513a)
