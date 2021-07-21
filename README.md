@@ -81,15 +81,13 @@ Abre um segundo terminal e execute:
 ### Dependencias
 Não será necessário instalar essas dependências caso você tenha efetuado o clone e as etapas descrito acima. 
 ```
-yarn init -y
-yarn add express nodemailer dotenv
-yarn add express-handlebars
-yarn add nodemon sucrase -D
-yarn add password-generator
-yarn add bull
-yarn add bull-board
-docker run --name redis -p 6379:6379 -d -t redis:alpine
-
+npm init -y
+npm add express nodemailer dotenv
+npm add express-handlebars
+npm add nodemon sucrase -D
+npm add password-generator
+npm add bull
+npm add bull-board
 ```
 
 ## 🚩 Tenho dúvidas... O que fazer? 
