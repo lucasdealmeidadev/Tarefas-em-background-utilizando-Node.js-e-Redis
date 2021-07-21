@@ -17,14 +17,14 @@ Foram adicionados os seguintes recursos ao projeto:
 ## 🚀 Recursos Utilizados
 
 * **[Axios](https://axios-http.com/docs/intro)**
-* **[Javascript](https://www.javascript.com/)**
-* **[Node.Js](https://nodejs.org/en/)**
+* **[BULL](https://github.com/OptimalBits/bull)**
+* **[Docker](https://www.docker.com/)**
 * **[Express](http://expressjs.com/pt-br/)**
 * **[Express Handlebars](https://github.com/express-handlebars/express-handlebars)**
-* **[Redis](https://redis.io/)**
-* **[BULL](https://github.com/OptimalBits/bull)**
+* **[Javascript](https://www.javascript.com/)**
 * **[Mailtrap.io](https://mailtrap.io/)**
-* **[Docker](https://www.docker.com/)**
+* **[Node.Js](https://nodejs.org/en/)**
+* **[Redis](https://redis.io/)**
 * **[SweetAlert](https://sweetalert2.github.io/)**
 
 
