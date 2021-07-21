@@ -2,7 +2,7 @@
   "name": "tarefas-em-background-utilizando-node.js-e-redis",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/lucasdealmeidadev/Tarefas-em-background-utilizando-NodeJS-e-Redis",
   "author": "Lucas de Almeida Monteiro <lucasdealmeida.monteiro@gmail.com>",
   "license": "MIT",
   "scripts": {
