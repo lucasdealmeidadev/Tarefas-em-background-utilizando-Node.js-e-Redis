@@ -8,11 +8,11 @@ Foram adicionados os seguintes recursos ao projeto:
 
 - Foi adicionado uma interface, para facilitar o procedimento de cadastro do usuário, utilizando as tecnologias **HTML**, **CSS** e **JS**;
 
-- Para o gerenciamento dos templetes **HTML** foi utilizado o pacote **Express Handlebars**;
+- Para o gerenciamento dos templates **HTML** foi utilizado o pacote **Express Handlebars**;
 
-- Toda requição realizado e processada de maneira assincrona utilizado o cliente HTTP **Axios**;
+- Toda requisição realizado e processada de maneira assincrona utilizado o cliente HTTP **Axios**;
 
-- Por fim, foi utilizado a biblioteca SweetAlert para apresentar informações ao usuário.
+- Por fim, foi utilizado a biblioteca **SweetAlert** para apresentar informações ao usuário.
 
 ## 🚀 Recursos Utilizados
 
@@ -25,6 +25,7 @@ Foram adicionados os seguintes recursos ao projeto:
 * **[BULL](https://github.com/OptimalBits/bull)**
 * **[Mailtrap.io](https://mailtrap.io/)**
 * **[Docker](https://www.docker.com/)**
+* **[SweetAlert](https://sweetalert2.github.io/)**
 
 
 ## 🔥 Executando Localmente a Aplicação 
