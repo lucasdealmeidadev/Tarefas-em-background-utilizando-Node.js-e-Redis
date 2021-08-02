@@ -38,7 +38,7 @@ Para começar, você deve simplesmente clonar o repositório do projeto na sua m
 
 #### ❗️ Instalando as dependências (via Windows): 
 
-Abre o cmd (caso esteja utilizando o Windows) navegue até o local onde você clonou o projeto
+Abra o cmd (caso esteja utilizando o Windows) navegue até o local onde você clonou o projeto
 
 ```
 cd "C:\Users\NomeDoComputador\Documents\cloneprojeto"
