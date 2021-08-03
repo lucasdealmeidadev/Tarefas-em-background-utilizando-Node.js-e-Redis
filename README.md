@@ -10,7 +10,7 @@ Foram adicionados os seguintes recursos ao projeto:
 
 - Para o gerenciamento dos templates **HTML** foi utilizado o pacote **Express Handlebars**;
 
-- Todas as requisições realizadas ao servidor são processadas de modo assincrona utilizado o cliente HTTP **Axios**;
+- Todas as requisições realizadas ao servidor são processadas de modo assíncrono utilizado o cliente HTTP **Axios**;
 
 - Por fim, foi utilizado a biblioteca **SweetAlert** para apresentar informações ao usuário.
 
